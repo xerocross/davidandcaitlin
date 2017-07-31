@@ -1,3 +1,4 @@
+{book: true, sample: true}
 # A Girl Named Charlie
 
 It was a cool, dewy morning just before twilight when David arrived home from work and locked his bike to a tree in the front yard. He worked nights, and he made just over minimum wage.  He was pleased he could afford to live here---an unremarkable house, but it was in a nice part of town.  He shared the place with two roommates, but even so.  There were plenty of trees, and he often saw deer running around freely at this time of day.  And it was only biking distance to the center of town.
