@@ -1,6 +1,11 @@
 {book: true, sample: true}
 # A Girl Named Charlie
 
+<!---
+# David arrives home, pours himself a drink, 
+# and begins settling in for sleep.
+--->
+
 It was a cool, dewy morning just before twilight when David arrived home from work and locked his bike to a tree in the front yard. He worked nights, and he made just over minimum wage.  He was pleased he could afford to live here---an unremarkable house, but it was in a nice part of town.  He shared the place with two roommates, but even so.  There were plenty of trees, and he often saw deer running around freely at this time of day.  And it was only biking distance to the center of town.
 
 Riding his bicycle to and from work was an attempt at fitness.  Also it was bracing in the morning chill.  And somehow the loneliness of it felt right to him.  There was something deeply lonely about biking in the morning before dawn.  It wasn't the same as driving.  Driving could be lonely too, especially driving on a highway at night.  But it was different.
@@ -10,6 +15,11 @@ He was careful to open the front door quietly.  His roommates would still be asl
 He kicked off his shoes just inside the door, went to the kitchen for a clean old fashioned style glass and then to his bedroom where he poured himself two fingers of scotch and sat for a moment on his bed, drink in hand.
 
 He pushed his socks off one foot at a time with his toes and then brought his feet up to sit cross-legged.  He had no plans but to sip scotch in bed until sleep took him.  Then wake up, go to work, come back home and repeat.  *Much as almost everyone lives their lives,* he thought.  *One pointless day after another.*
+
+<!---
+# David's roommate has a dog, Barney.  Barney
+# needs to be let outside, so David takes him outside.
+--->
 
 His roommate's dog Barney came sniffing around his doorway, asking if he could come inside in his own dog-like way.  Dogs were welcome sometimes.  Nobody else was.  If David wanted company, he went out.
 
@@ -29,6 +39,13 @@ Barney didn't bark.  He was not impolite to his sleeping human, Nick.  Nor to hi
 
 As soon as David opened the back door, Barney raced out and became a shadow moving joyfully among the grass and bushes of the yard before he settled to do his business.
 
+<!---
+# David notices some rotting strawberries in a potted
+# plant near the door, and he immediately thinks they
+# are a message from someone---from Caitlin, but that
+# is not made clear to the reader.
+--->
+
 David sat on a folding chair on the back stoop and waited.  And he sipped his scotch slowly.  After a moment, he noticed tiny fruit flies buzzing around a potted plant beside the door, and suddenly he realized he could smell it.
 
 The smell was rotting fruit. Sweet and foul at the same time. There on top of the soil in the pot someone had tossed two handfuls of strawberries and left them to rot along with bits of orange peel.
@@ -42,6 +59,12 @@ It had been long enough, so David called Barney back.  The dog hesitated just a 
 David decided to leave the strawberries where they were.  Each roommate would just think one of the others had put them there.
 
 Inside, Barney went quietly back into Nick's room.  David poured a tall glass of water in the kitchen and then retired for the day to his bedroom.  He closed the door behind him, changed into pajama pants, and sat on his bed again.
+
+<!---
+# David goes back to his room shocked.  He concludes
+# from the message that Caitlin (the unknown someone)
+# is nearby and she wants to meet.
+--->
 
 The walls of his bedroom were covered mostly with books of physics and some smaller collections in the other sciences.  On a shelf within reaching distance of his bed was a collection of self-help books that looked well worn.
 
