@@ -1,1 +1,2 @@
-ch01.txt
+ch01_scene01.txt
+ch01_scene02.txt
